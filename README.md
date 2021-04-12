@@ -1,7 +1,7 @@
 # Introduction to Text Analytics with Python
 ---
 
-This repository contains Jupyter Notebooks and Python Code to accompany workshops/classes that I give on the use of text analytics in management and entrepreneurship research. Modules 1-3 are designed to be self-led explorations into the basics of Python to provide workshop participants with a baseline familiarity of Python before entering the workshop/class. Modules 4 and on are designed to be used during the workshops/classes themselves and so have less *discussion/explicit explanation* in them. This being said, I believe that with some tinkering, even these modules can be explored outside of a workshop context.
+This repository contains Jupyter Notebooks and Python code to accompany workshops/classes that I give on the use of text analytics in management and entrepreneurship research. Modules 1-3 are designed to be self-led explorations into the basics of Python to provide workshop participants with a baseline familiarity of Python before entering the workshop/class. Modules 4 and on are designed to be used during the workshops/classes themselves and so have less *discussion/explicit explanation* in them. This being said, I believe that with some tinkering, even these modules can be explored outside of a workshop context.
 
 * [Module 1](https://github.com/amckenny/text_analytics_intro/blob/main/notebooks/01_welcome_to_python_and_colab.ipynb): Welcome To Python and Google Colaboratory
 * [Module 2](https://github.com/amckenny/text_analytics_intro/blob/main/notebooks/02_basic_python_data_types_and_structures.ipynb): Basic Python Data Types and Structures
