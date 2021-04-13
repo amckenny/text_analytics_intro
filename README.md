@@ -10,5 +10,6 @@ This repository contains Jupyter Notebooks and Python code to accompany workshop
 * [Module 5](https://github.com/amckenny/text_analytics_intro/blob/main/notebooks/05_text_preprocessing.ipynb): Text Preprocessing
 * [Module 6](https://github.com/amckenny/text_analytics_intro/blob/main/notebooks/06_text_visualization.ipynb): Text Visualization
 * [Module 7](https://github.com/amckenny/text_analytics_intro/blob/main/notebooks/07_word_representations.ipynb): Word Representations
+* [Module 8](https://github.com/amckenny/text_analytics_intro/blob/main/notebooks/08_dictionary_based_analyses.ipynb): Dictionary-Based Analyses
 
 The material in this repository is Copyright (c) Aaron McKenny using the [MIT License](https://github.com/amckenny/text_analytics_intro/blob/main/LICENSE), a permissive license which indicates that you're pretty much free to do whatever you'd like with the code in the repository, but with no liability or warranty offered on my part.
